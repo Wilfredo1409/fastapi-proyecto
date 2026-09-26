@@ -18,11 +18,11 @@
 ## PARTE B — Práctica (Capturas de Swagger)
 
 1. **POST /login -> 200 con token**
-   ![Login 200](cap 1.png)
+   ![Login 200](cap1.png)
 
 2. **GET /privado -> 200 (autenticado)**
-   ![Privado 200](cap 2.png)
+   ![Privado 200](cap2.png)
 
 3. **GET /admin -> 403 (rol estudiante)**
-   ![Admin 403](cap 3.png)
+   ![Admin 403](cap3.png)
    
